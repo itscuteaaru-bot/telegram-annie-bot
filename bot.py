@@ -46,7 +46,7 @@ boundary_replies = [
 
 async def start(update, context):
     await update.message.reply_text(
-        "Heyyy 😄 Main tumhari fun & flirty virtual dost hoon 😉\nChalo baat shuru karein!"
+        "Heyyy 😄 Main tumhari fun & flirty virtual dost hoon 😉\Chalo baat shuru karein!"
     )
 
 async def help_cmd(update, context):
